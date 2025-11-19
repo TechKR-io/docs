@@ -11,14 +11,10 @@
             "id": "70746b1c31898212",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/TechKR MVP Overview/Problem statement.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Problem statement"
+              "title": "New tab"
             }
           }
         ]
@@ -180,19 +176,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "103e101048551643",
+  "active": "70746b1c31898212",
   "lastOpenFiles": [
+    "content/TechKR MVP/Untitled/Problem statement.md",
+    "content/TechKR MVP/Pitch Deck",
+    "content/TechKR MVP/Our team",
+    "content/TechKR MVP/Resources & Survey",
+    "content/TechKR MVP/Links and Re",
+    "content/TechKR MVP/Solution",
+    "content/TechKR MVP/Problem Statement",
+    "content/TechKR MVP/Project Overview",
     "vercel.json",
     "content/collaborators/participants/developers.md",
-    "content/TechKR MVP Overview/Problem statement.md",
-    "content/TechKR MVP Overview",
+    "content/TechKR MVP",
     "content/patterns/action-learning.md",
     "collaborators/communities-of-place/hub/hubs.md",
     "collaborators/communities-of-place/hub",
-    "collaborators/communities-of-place",
     "collaborators/communities-of-practice/practice-networks.md",
-    "collaborators/communities-of-practice",
-    "collaborators",
     "OBSIDIAN_SETUP.md",
     "content/patterns/action-learning journeys.md",
     "add.md",
@@ -213,10 +213,8 @@
     "content/processes/evaluation/Philosophy.md",
     "content/processes/evaluation/2. Our Methodology/index.md",
     "content/processes/enrolment/Hub Enrollment Form Design.md",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
-    "video_2025-06-30_20-19-20.mp4",
     "evaluation day2 1.jpg",
     "evaluation day4 1.jpg",
     "evaluation day4.jpg",
@@ -224,9 +222,6 @@
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
     "evaluation day1.jpg",
-    "patterns",
-    "index",
-    "public/noah.jpg",
-    "content/collaborators/index.mdx"
+    "public/noah.jpg"
   ]
 }
