@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f97a95a976a48f84",
+        "id": "0e01392ae7cf5f02",
         "type": "tabs",
         "children": [
           {
-            "id": "70746b1c31898212",
+            "id": "dd8a0292a850de8b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -176,14 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70746b1c31898212",
+  "active": "bce36f6df86b5df2",
   "lastOpenFiles": [
     "content/TechKR MVP/Untitled/Problem statement.md",
     "content/TechKR MVP/Pitch Deck",
     "content/TechKR MVP/Our team",
     "content/TechKR MVP/Resources & Survey",
     "content/TechKR MVP/Links and Re",
-    "content/TechKR MVP/Solution",
+    "content/TechKR MVP/Our Solution",
     "content/TechKR MVP/Problem Statement",
     "content/TechKR MVP/Project Overview",
     "vercel.json",
