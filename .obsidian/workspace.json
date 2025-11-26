@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/TechKR MVP/Pitch Deck/OUR PITCH DECK.md",
+                "file": "content/TechKR MVP/Problem Statement/PROBLEM STATEMENT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OUR PITCH DECK"
+              "title": "PROBLEM STATEMENT"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "dd8a0292a850de8b",
   "lastOpenFiles": [
-    "content/TechKR MVP/TechKR documentation/DOCUMENTATION.md",
     "content/TechKR MVP/Pitch Deck/OUR PITCH DECK.md",
+    "content/TechKR MVP/Problem Statement/PROBLEM STATEMENT.md",
+    "content/TechKR MVP/TechKR documentation/DOCUMENTATION.md",
     "content/TechKR MVP/Our team/Untitled.md",
     "content/TechKR MVP/Resources & Survey/Untitled.md",
     "content/TechKR MVP/Untitled/Problem statement.md",
@@ -217,7 +218,6 @@
     "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
     "content/processes/evaluation/index.md",
     "content/processes/evaluation/1. Our Approach/index.md",
-    "content/processes/evaluation/1. Our Approach/a. Foundations.md",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "evaluation day2 1.jpg",
