@@ -272,6 +272,6 @@ TechKR is not just another job platform, it is a bridge between skills and oppor
 
 This document explains the foundation of what TechKR stands for and the exact solution we are building.
 
-Here’s our survey link: [click here](https://docs.google.com/spreadsheets/u/0/d/1oD_MjrD9GIlsHu1B23OFLwV2ZOTiEn68TY9ajcWLLK4/edit)
+Here’s our survey link: [click here](https://docs.google.com/spreadsheets/u/0/d/1oD_MjrD9GIlsHu1B23OFLwV2ZOTiEn68TY9ajcWLLK4/edit) 
 
 **
