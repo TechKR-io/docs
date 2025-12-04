@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/THE FOUR QUADRANTS OF REGENERATIVE PRINCIPLE/QUADRANT 1 - THE GROUND TRUTHS.md",
+                "file": "content/OUR TEAM/OUR TEAM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QUADRANT 1 - THE GROUND TRUTHS"
+              "title": "OUR TEAM"
             }
           }
         ]
@@ -182,8 +182,14 @@
   },
   "active": "dd8a0292a850de8b",
   "lastOpenFiles": [
-    "content/TechKR.md",
+    "content/OUR HACKATHON JOURNEY/OUR JOUNEY.md",
+    "content/OUR TEAM/OUR TEAM.md",
+    "content/OUR TEAM",
+    "content/TechKR Documentation/INTRODUCTION.md",
+    "content/OUR HACKATHON JOURNEY",
     "content/THE FOUR QUADRANTS OF REGENERATIVE PRINCIPLE/QUADRANT 1 - THE GROUND TRUTHS.md",
+    "content/TechKR Documentation",
+    "content/TechKR.md",
     "content/THE FOUR QUADRANTS OF REGENERATIVE PRINCIPLE",
     "content/TechKR MVP/Resources & Survey/LINKS.md",
     "content/TechKR MVP/TechKR documentation/DOCUMENTATION.md",
@@ -197,10 +203,7 @@
     "content/TechKR MVP/Links and Re",
     "content/TechKR MVP/TechKR documentation",
     "content/TechKR MVP/Problem Statement",
-    "content/TechKR MVP/Project Overview",
-    "vercel.json",
     "content/collaborators/participants/developers.md",
-    "content/TechKR MVP",
     "content/patterns/action-learning.md",
     "collaborators/communities-of-place/hub/hubs.md",
     "collaborators/communities-of-practice/practice-networks.md",
@@ -215,9 +218,6 @@
     "content/processes/evaluation/3. Resources & Evidence/a. Tooling.md",
     "content/processes/evaluation/3. Resources & Evidence/index.md",
     "content/processes/evaluation/2. Our Methodology/c. Enabling Stewardship.md",
-    "content/processes/evaluation/2. Our Methodology/b. Tracking Catalysts.md",
-    "content/processes/evaluation/2. Our Methodology/a. Identifying Value.md",
-    "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
     "evaluation day2 1.jpg",

@@ -1,0 +1,26 @@
+**
+
+## Our Hackathon Journey: From Confusion to Clarity, and the Beauty of Regeneration
+
+When we started this hackathon, nothing made sense. Absolutely nothing.  
+The tools felt foreign, the workflow felt strange, and everything seemed to be moving faster than we could catch up with. As the Product Manager, I suddenly found myself learning things I had never imagined I’d be using Obsidian, Git, Vercel, and all the new development practices that came with them.
+
+There were nights I sat down just trying to understand how these tools connected, how the system worked, and how best to structure our workflow. I even had a meeting with Carlos, asking him questions and trying to understand why these tools mattered and how to use them effectively. It was tough, but each explanation moved me a little closer to clarity.
+
+What I didn’t know at the time was that my team had also been working individually, everyone struggling on their own, trying to find their footing. We were all confused, just in different corners. Eventually, we realized that the Hub would actually help us with a lot of the things we were trying to figure out alone. Once we aligned and shared what we had each learned, things shifted. Suddenly, everything that felt heavy became light.
+
+  
+As we moved forward, we began conducting interviews for the Groundtruths, and that was another regenerative experience. Every time we interviewed someone, new questions came to our minds. Questions we didn’t even think about earlier. So after each interview, we refined our next set of questions, improved our flow, and deepened our understanding. It was regeneration in its purest form learning, adapting, growing, and evolving continuously.
+
+Overall, this hackathon became more than just a project. It became a journey. A transformation. A lived experience of how regeneration works.
+
+We want to say a big thank you to NexTrend Hub for giving us the space and structure to grow.  
+To the Hub lead, Abdulrahman, thank you for your support, you made the entire process more enjoyable.  
+  
+
+And to WADA and Prisma, thank you for introducing us to the regenerative principle. We didn’t just learn it, we lived it, and it was genuinely fun.
+
+This journey wasn’t perfect, but it was beautiful. And now, looking back, we’re grateful for every confusing beginning that led to clarity in the end.
+
+  
+**
